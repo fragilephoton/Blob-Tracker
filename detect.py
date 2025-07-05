@@ -4,7 +4,7 @@ from ultralytics import YOLO
 import os
 i=0
 # Load your 1080p video
-input_video =r"C:\Users\kiran\OneDrive\Documents\Desktop\vids\gangam.mp4" #paste the path of your video here
+input_video =r" path of your video " #paste the path of your video here
 output_video = "yolo.mp4" #will be saved in the same directory as the
 USE_MEDIAPIPE = True
 USE_YOLO = True
